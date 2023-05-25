@@ -7,7 +7,7 @@
 
 ### Skills:
 - Programming/Scripting Languages: Python, C, C++, SQL, LabVIEW
-- Libraries: Pandas, Numpy, Scikit-Learn, Pytorch, Tensorflow, Keras, OpenCV, Matplotlib, Seaborn, Flask, Pyautogui
+- Libraries: Pytorch, Tensorflow, Keras, Pandas, Numpy, Scikit-Learn, OpenCV, Matplotlib, Seaborn, Flask, Pyautogui
 - DevOps: Version Control – Git & Tortoise SVN, JIRA, Agile, RQM, Polarion
 
 
