@@ -2,12 +2,13 @@
 
 ### About Me:
 - Driven AI/ML Engineer with exceptional problem-solving and programming skills with Python proficiency.
-- With 3+ years of experience in software development and test automation for industrial and medical units, I specialize in building solutions using Computer Vision and Machine Learning algorithms.
+- With 3+ years of experience in software development and test automation for industrial and medical units, I specialize in building solutions using GenAI, Computer Vision and Machine Learning algorithms.
+- Experience of 8 months as an AI Engineer at AI Focal with expertise of building RAG based enterprise solutions.
 
 ### Skills:
 - Programming/Scripting Languages: Python, C, C++, SQL, LabVIEW
-- Libraries: Pytorch, Tensorflow, Keras, Pandas, Numpy, Scikit-Learn, OpenCV, Matplotlib, Seaborn, Flask, Pyautogui
-- DevOps: Git & Tortoise SVN, JIRA, Agile, RQM, Polarion
+- Libraries: Pytorch, Tensorflow, Keras, Pandas, Numpy, Scikit-Learn, Langchain, OpenCV, Matplotlib, Seaborn, Flask, FASTAPI
+- DevOps: Git & Tortoise SVN, Docker, Kubernetes, AWS, Azure, JIRA, Agile, RQM, Polarion
 
 
 
