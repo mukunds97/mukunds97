@@ -3,7 +3,7 @@
 ### About Me:
 - Driven AI/ML Engineer with exceptional problem-solving and programming skills with Python proficiency.
 - With 3+ years of experience in software development and test automation for industrial and medical units, I specialize in building solutions using GenAI, Computer Vision and Machine Learning algorithms.
-- Experience of 8 months as an AI Engineer at AI Focal with expertise of building RAG based enterprise solutions.
+- Experience as an AI Engineer with expertise of building RAG based enterprise solutions.
 
 ### Skills:
 - Programming/Scripting Languages: Python, C, C++, SQL, LabVIEW
